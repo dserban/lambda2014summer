@@ -1,0 +1,28 @@
+{
+    "_number_of_floors": 100,
+    "_number_of_elevators": 8,
+    "_carrying_capacity_of_one_elevator": 4,
+    "_traffic_patterns": {
+        "_typical_office_hours": [
+            {
+                "_location": {
+                    "_at_floor": 54
+                },
+                "_destination": 43
+            },
+            {
+                "_location": {
+                    "_at_floor": 67
+                },
+                "_destination": 99
+            },
+            {
+                "_location": {
+                    "_at_floor": 23
+                },
+                "_destination": 82
+            }
+        ]
+    }
+}
+
